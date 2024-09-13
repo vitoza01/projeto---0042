@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "imagens login",
+			"path": "../imagens login"
+		},
+		{
+			"name": "bootstrap",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imagens login"
+	}
+}
